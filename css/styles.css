@@ -119,6 +119,13 @@ calendário:*/
   color: black !important;
 }
 
+/*Hover dia atual do mês:*/
+.dycalendar-month-container .dycalendar-today-date:hover,
+.dycalendar-month-container .dycalendar-target-date {
+  background: black;
+  color: white !important;
+}
+
 /*BtmPrevious*/
 .dycalendar-month-container
   .dycalendar-header
