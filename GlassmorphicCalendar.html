@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=
+    , initial-scale=1.0"
+    />
+    <link rel="stylesheet" href="dycalendar.css" />
+    <link rel="stylesheet" href="Styles.css" />
+    <title>Glassmorphic Calendar</title>
+  </head>
+  <body>
+    <section>
+      <div class="box">
+        <div class="container">
+          <div id="dycalendar"></div>
+        </div>
+      </div>
+    </section>
+    <script src="dycalendar.js"></script>
+    <script>
+      dycalendar.draw({
+        target: "#dycalendar",
+        type: "month",
+        dayformat: "full",
+        monthformat: "full",
+        highlighttargetdate: true,
+        prevnextbutton: "show",
+      });
+    </script>
+  </body>
+</html>
