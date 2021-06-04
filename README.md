@@ -1,4 +1,7 @@
-<img src="">
+<!---->
+<div align="center">
+<img src="./app.jpg" align="center">
+</div>
 
 # Web Calendar - Glassmorphic Design UX-UI
 <p>Esse projeto foi feito por: <strong>Thiago Silva Lopes</strong>, em 06/2021,</br>
