@@ -9,4 +9,4 @@
 tendo como base o <a href="https://www.youtube.com/watch?v=0LnecKau04Y&t=419s">tutorial,</a> do canal do Youtube: 
 <a href=https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog>Online Tutorials</a>
 
-## Demo: https://web-calendar-glassmorphic.herokuapp.com/
+## Demo: https://web-calendar-glassmorphic.netlify.app/
